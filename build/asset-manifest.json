@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/jamming/static/css/main.c60daf86.chunk.css",
-    "main.js": "/jamming/static/js/main.1d4607f3.chunk.js",
-    "main.js.map": "/jamming/static/js/main.1d4607f3.chunk.js.map",
-    "runtime~main.js": "/jamming/static/js/runtime~main.5f4c7a3d.js",
-    "runtime~main.js.map": "/jamming/static/js/runtime~main.5f4c7a3d.js.map",
-    "static/js/2.c91bada0.chunk.js": "/jamming/static/js/2.c91bada0.chunk.js",
-    "static/js/2.c91bada0.chunk.js.map": "/jamming/static/js/2.c91bada0.chunk.js.map",
-    "index.html": "/jamming/index.html",
-    "precache-manifest.d5b4b0fe896090a2379c32a5bd863f2c.js": "/jamming/precache-manifest.d5b4b0fe896090a2379c32a5bd863f2c.js",
-    "service-worker.js": "/jamming/service-worker.js",
-    "static/css/main.c60daf86.chunk.css.map": "/jamming/static/css/main.c60daf86.chunk.css.map",
-    "static/media/App.css": "/jamming/static/media/background_photo_desktop.37be7357.jpg"
+    "main.css": "/jamming-app/static/css/main.afe08f79.chunk.css",
+    "main.js": "/jamming-app/static/js/main.88a0b203.chunk.js",
+    "main.js.map": "/jamming-app/static/js/main.88a0b203.chunk.js.map",
+    "runtime~main.js": "/jamming-app/static/js/runtime~main.b135e032.js",
+    "runtime~main.js.map": "/jamming-app/static/js/runtime~main.b135e032.js.map",
+    "static/js/2.c91bada0.chunk.js": "/jamming-app/static/js/2.c91bada0.chunk.js",
+    "static/js/2.c91bada0.chunk.js.map": "/jamming-app/static/js/2.c91bada0.chunk.js.map",
+    "index.html": "/jamming-app/index.html",
+    "precache-manifest.27aedbaf114770cd27a76cb8da25cbf2.js": "/jamming-app/precache-manifest.27aedbaf114770cd27a76cb8da25cbf2.js",
+    "service-worker.js": "/jamming-app/service-worker.js",
+    "static/css/main.afe08f79.chunk.css.map": "/jamming-app/static/css/main.afe08f79.chunk.css.map",
+    "static/media/App.css": "/jamming-app/static/media/background_photo_desktop.37be7357.jpg"
   }
 }
