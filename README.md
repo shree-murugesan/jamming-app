@@ -4,4 +4,4 @@ This is a website where you can search for songs and create custom playlists wit
 
 Made using HTML, CSS, JS, React Native.
 
-https://shree-murugesan.github.io/jamming/
+https://shree-murugesan.github.io/jamming-app/
